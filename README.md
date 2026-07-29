@@ -144,6 +144,31 @@ FoodHub_EDA/
 
 ---
 
+## 🍽️ Most Popular Cuisines
+
+The chart below highlights the most frequently ordered cuisines on the FoodHub platform, helping identify customer preferences and opportunities for targeted promotions.
+
+![Cuisine Popularity](images/cuisine_popularity.png)
+
+---
+
+## 💰 Order Cost Distribution
+
+Understanding the distribution of order values helps identify customer spending patterns and supports pricing and promotional strategies.
+
+![Order Cost Distribution](images/order_cost_distribution.png)
+
+---
+
+## ⭐ Customer Ratings Distribution
+
+Customer ratings provide valuable insights into overall satisfaction and service quality, helping identify opportunities to improve the customer experience.
+
+![Customer Ratings Distribution](images/ratings_distribution.png)
+
+---
+
+
 ## Author
 
 **Preeti Sahu**
